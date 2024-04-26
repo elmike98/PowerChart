@@ -14,7 +14,7 @@ PowerChart es un script de PowerShell que te permite crear gráficos en tiempo r
 
 Este proyecto no necesita de instalación. Simplemente copias el repositorio o descargas el archivo .ps1 y lo ejecutas con PowerShell.
 
-## Supported PowerShell Versions
+## Versiones de PowerShell Compatibles
 
 * 5.0
 * 6.0
